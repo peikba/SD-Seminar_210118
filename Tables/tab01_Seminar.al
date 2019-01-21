@@ -99,6 +99,10 @@ table 50101 "CSD Seminar"
         {
             Clustered = true;
         }
+        key(key1;Name)
+        {
+            
+        }
     }
 
     var
