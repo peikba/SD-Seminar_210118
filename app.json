@@ -1,0 +1,26 @@
+{
+  "id": "35b0ddb3-6ddb-455d-b3ef-2e71c18b92e8",
+  "name": "SD Seminar",
+  "publisher": "D. E. Veloper",
+  "brief": "This is a Seminar Management module",
+  "description": "This is a Seminar Management module - Buy me!",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://ba-consult.dk/downloads/warrenty.txt",
+  "logo": "./images/large_seminar.ly.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": ["TranslationFile"],
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3"
+}
