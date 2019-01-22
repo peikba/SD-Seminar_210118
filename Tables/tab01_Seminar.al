@@ -101,6 +101,13 @@ table 50101 "CSD Seminar"
         }
     }
 
+fieldgroups
+{
+    fieldgroup("DropDown";"No.",Name)
+    {
+
+    }
+}
     var
         SeminarSetup: Record "CSD Seminar Setup";
         CommentLine: Record "CSD Seminar Comment Line";
