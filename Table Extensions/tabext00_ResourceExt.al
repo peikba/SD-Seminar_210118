@@ -30,13 +30,6 @@ tableextension 50100 "CSD ResourceExt" extends Resource
             Caption = 'Quantity Per Day';
         }        
     }
-    keys
-    {
-        key(key1;"CSD Resource Type")
-        {
-            
-        }
-    }
 }
 
 
